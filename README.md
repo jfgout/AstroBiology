@@ -31,6 +31,12 @@ By presenting results from the primary scientific literature, including a number
 
 There is no textbook required for this course. A list of required and recommended readings in the primary scientific literature will accompany lectures.  Syllabus, Lectures, handouts, and supplemental materials will be available on canvas.
 
+## EVALUATIONS
+  
+In-class exams (one midterm and one final exam) will make up 50% of the final grade. Quizzes and assignments (made available through Canvas) will make the remaining 50% of the grade.
+
+
+
 ## List of topics
 
 * Introduction to astrobiology – the surprisingly difficult task of defining life.
@@ -47,4 +53,4 @@ There is no textbook required for this course. A list of required and recommende
 * Principles of astronomy: Earth’s place in the universe.
 * Searching for life outside of Earth – part I: the search for life in the solar system.
 * Searching for life outside of Earth – part II: the search for exoplanets and distant civilizations
-* 
+  
